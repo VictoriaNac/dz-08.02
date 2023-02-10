@@ -1,0 +1,15 @@
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.csproj.AssemblyReference.cache
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.AssemblyInfoInputs.cache
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.AssemblyInfo.cs
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.csproj.CoreCompileInputs.cache
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\bin\Debug\net7.0\DZ10.02.exe
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\bin\Debug\net7.0\DZ10.02.deps.json
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\bin\Debug\net7.0\DZ10.02.runtimeconfig.json
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\bin\Debug\net7.0\DZ10.02.dll
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\bin\Debug\net7.0\DZ10.02.pdb
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.dll
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\refint\DZ10.02.dll
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.pdb
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\DZ10.02.genruntimeconfig.cache
+C:\Users\79697\Desktop\Пайтон\VSC\DZ10.02\25\obj\Debug\net7.0\ref\DZ10.02.dll

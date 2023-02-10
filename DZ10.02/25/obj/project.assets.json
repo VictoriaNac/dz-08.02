@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\DZ10.02.csproj",
+      "projectUniqueName": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\25\\DZ10.02.csproj",
       "projectName": "DZ10.02",
-      "projectPath": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\DZ10.02.csproj",
+      "projectPath": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\25\\DZ10.02.csproj",
       "packagesPath": "C:\\Users\\79697\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\obj\\",
+      "outputPath": "C:\\Users\\79697\\Desktop\\Пайтон\\VSC\\DZ10.02\\25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79697\\AppData\\Roaming\\NuGet\\NuGet.Config"
